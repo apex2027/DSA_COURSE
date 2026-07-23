@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    // uncomment any code to check the patten
     // int n; 
     // cin>>n;
 
